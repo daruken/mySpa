@@ -185,7 +185,6 @@ spa.shell = (function () {
           // Chatting slider reduce end
       };
       // DOM Method /toggleChat/ End
-      
     // ------ DOM Method End ------
     
     
