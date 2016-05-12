@@ -152,7 +152,7 @@ jQuery.fn = jQuery.prototype = {
 	},
 
 	last: function() {
-		return this.eq( -1 );
+  return this.eq( -1 );
 	},
 
 	eq: function( i ) {
